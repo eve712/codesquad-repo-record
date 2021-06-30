@@ -12,7 +12,7 @@
 | :--: | :---------------------: | :------------------------------------------------------------------------: |
 |  1   |        todolist         |     [todo-list](https://github.com/eve712/todo-list/tree/team-14)      |
 |  2   |        sidedish         |      [sidedish](https://github.com/eve712/sidedish/tree/team18)       |
-|  3   |        baseball         |      [baseball](https://github.com/eve712/baseball/tree/TEAM-11)       |
+|  3   |        baseball         |      [baseball](https://github.com/janeljs/baseball/tree/fe-dev)       |
 |  4   |         airbnb          |        [airbnb](https://github.com/MJbae/airbnb)         |
 |  5   | issueTracker(현 진행중) | [issueTracker](https://github.com/JUNGYUN-Daegu/issue-tracker/tree/FE-dev) |
 
